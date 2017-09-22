@@ -8,3 +8,10 @@
 
 - You can check out this project online [here](https://nowaxsky.github.io/udemy-mrr-videobrowser/).
 
+- You can clone this repository, install dependencies first, then fire this project. 
+(visit localhost:8080)
+
+```
+> npm install
+> npm run build
+```
